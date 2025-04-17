@@ -1,1 +1,2 @@
-# DVL-admin-panel
+# DermaData-Admin-Panel
+DermaData Admin Panel - React
